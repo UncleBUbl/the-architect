@@ -1,0 +1,5 @@
+{
+  "name": "The Architect",
+  "description": "A visual prototyping tool powered by Gemini 3. Upload a sketch, define a vibe, and generate a fully coded Tailwind CSS interface in seconds.",
+  "requestFramePermissions": []
+}
